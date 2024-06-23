@@ -1,1 +1,1 @@
-- [[terms.md]]
+- [용어](terms.md)
